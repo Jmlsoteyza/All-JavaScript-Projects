@@ -1,4 +1,4 @@
-const skills = ["BAI", "CSS", "Javascript", "NodeJs", "ReactJs", "Python"];
+const skills = ["HTML", "CSS", "Javascript", "NodeJs", "ReactJs", "Python"];
 const searchInput = document.getElementById("filter-input");
 const output = document.querySelector(".output");
 
